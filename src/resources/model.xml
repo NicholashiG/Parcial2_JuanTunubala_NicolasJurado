@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="18.0.1.1" class="java.beans.XMLDecoder">
+ <object class="model.Restaurante" id="Restaurante0">
+  <void property="clientes">
+   <void method="add">
+    <object class="model.Cliente" id="Cliente0">
+     <void property="apellido">
+      <string>Tubulaba</string>
+     </void>
+     <void property="cedula">
+      <string>1234</string>
+     </void>
+     <void property="codigo">
+      <int>1</int>
+     </void>
+     <void property="nombre">
+      <string>Juan</string>
+     </void>
+     <void property="telefono">
+      <string>30000</string>
+     </void>
+     <void property="tipoId">
+      <string>Cedula</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="model.Cliente" id="Cliente1">
+     <void property="apellido">
+      <string>Jurado</string>
+     </void>
+     <void property="cedula">
+      <string>123456</string>
+     </void>
+     <void property="codigo">
+      <int>2</int>
+     </void>
+     <void property="nombre">
+      <string>Nicolas</string>
+     </void>
+     <void property="telefono">
+      <string>1234453</string>
+     </void>
+     <void property="tipoId">
+      <string>Cedula</string>
+     </void>
+    </object>
+   </void>
+  </void>
+  <void property="pedidos">
+   <void method="add">
+    <object class="model.Pedido">
+     <void property="cliente">
+      <object idref="Cliente0"/>
+     </void>
+     <void property="fecha">
+      <string>20-10-22</string>
+     </void>
+     <void property="producto">
+      <object class="java.util.ArrayList" id="ArrayList0">
+       <void method="add">
+        <object class="model.Producto">
+         <void property="codigo">
+          <string>0001</string>
+         </void>
+         <void property="nombre">
+          <string>Pan</string>
+         </void>
+         <void property="precio">
+          <int>1000</int>
+         </void>
+        </object>
+       </void>
+      </object>
+     </void>
+     <void property="total">
+      <int>20000</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="model.Pedido">
+     <void property="cliente">
+      <object idref="Cliente1"/>
+     </void>
+     <void property="fecha">
+      <string>19-10-22</string>
+     </void>
+     <void property="producto">
+      <object idref="ArrayList0"/>
+     </void>
+     <void property="total">
+      <int>42344</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="model.Pedido">
+     <void property="cliente">
+      <object idref="Cliente0"/>
+     </void>
+     <void property="fecha">
+      <string>22-10-22</string>
+     </void>
+     <void property="producto">
+      <object idref="ArrayList0"/>
+     </void>
+     <void property="total">
+      <int>30000</int>
+     </void>
+    </object>
+   </void>
+  </void>
+ </object>
+</java>

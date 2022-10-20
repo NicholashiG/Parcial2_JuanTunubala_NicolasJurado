@@ -1,0 +1,32 @@
+Oct 20, 2022 5:17:01 PM persistencia.ArchivoUtil guardarRegistroLog
+INFO: Nuevo Pedido: Pedido{fecha='20-10-22', total=20000, cliente=1@1234@Cedula@Juan@Tubulaba@30000},Se ha hecho un nuevo pedido por Juan,2022-10-20
+Oct 20, 2022 5:17:53 PM persistencia.ArchivoUtil guardarRegistroLog
+INFO: Nuevo Pedido: Pedido{fecha='20-10-22', total=20000, cliente=1@1234@Cedula@Juan@Tubulaba@30000},Se ha hecho un nuevo pedido por Juan Tubulaba,2022-10-20
+Oct 20, 2022 5:33:26 PM persistencia.ArchivoUtil guardarRegistroLog
+INFO: Nuevo Pedido: Pedido{fecha='20-10-22', total=20000, cliente=1@1234@Cedula@Juan@Tubulaba@30000},Se ha hecho un nuevo pedido por Juan Tubulaba,2022-10-20
+Oct 20, 2022 5:34:13 PM persistencia.ArchivoUtil guardarRegistroLog
+INFO: Nuevo Pedido: Pedido{fecha='20-10-22', total=20000, cliente=1@1234@Cedula@Juan@Tubulaba@30000},Se ha hecho un nuevo pedido por Juan Tubulaba,2022-10-20
+Oct 20, 2022 5:34:28 PM persistencia.ArchivoUtil guardarRegistroLog
+INFO: Nuevo Pedido: Pedido{fecha='20-10-22', total=20000, cliente=1@1234@Cedula@Juan@Tubulaba@30000},Se ha hecho un nuevo pedido por Juan Tubulaba,2022-10-20
+Oct 20, 2022 5:34:28 PM persistencia.ArchivoUtil guardarRegistroLog
+INFO: Nuevo Pedido: Pedido{fecha='19-10-22', total=42344, cliente=2@123456@Cedula@Nicolas@Jurado@1234453},Se ha hecho un nuevo pedido por Nicolas Jurado,2022-10-20
+Oct 20, 2022 5:34:28 PM persistencia.ArchivoUtil guardarRegistroLog
+INFO: Nuevo Pedido: Pedido{fecha='22-10-22', total=30000, cliente=1@1234@Cedula@Juan@Tubulaba@30000},Se ha hecho un nuevo pedido por Juan Tubulaba,2022-10-20
+Oct 20, 2022 5:40:45 PM persistencia.ArchivoUtil guardarRegistroLog
+INFO: Nuevo Pedido: Pedido{fecha='20-10-22', total=20000, cliente=1@1234@Cedula@Juan@Tubulaba@30000},Se ha hecho un nuevo pedido por Juan Tubulaba,2022-10-20
+Oct 20, 2022 5:40:45 PM persistencia.ArchivoUtil guardarRegistroLog
+INFO: Nuevo Pedido: Pedido{fecha='19-10-22', total=42344, cliente=2@123456@Cedula@Nicolas@Jurado@1234453},Se ha hecho un nuevo pedido por Nicolas Jurado,2022-10-20
+Oct 20, 2022 5:40:45 PM persistencia.ArchivoUtil guardarRegistroLog
+INFO: Nuevo Pedido: Pedido{fecha='22-10-22', total=30000, cliente=1@1234@Cedula@Juan@Tubulaba@30000},Se ha hecho un nuevo pedido por Juan Tubulaba,2022-10-20
+Oct 20, 2022 5:46:10 PM persistencia.ArchivoUtil guardarRegistroLog
+INFO: Nuevo Pedido: Pedido{fecha='20-10-22', total=20000, cliente=1@1234@Cedula@Juan@Tubulaba@30000, producto=[Producto{codigo='0001', nombre='Pan', precio='1000'}]},Se ha hecho un nuevo pedido por Juan Tubulaba,2022-10-20
+Oct 20, 2022 5:46:10 PM persistencia.ArchivoUtil guardarRegistroLog
+INFO: Nuevo Pedido: Pedido{fecha='19-10-22', total=42344, cliente=2@123456@Cedula@Nicolas@Jurado@1234453, producto=[Producto{codigo='0001', nombre='Pan', precio='1000'}]},Se ha hecho un nuevo pedido por Nicolas Jurado,2022-10-20
+Oct 20, 2022 5:46:10 PM persistencia.ArchivoUtil guardarRegistroLog
+INFO: Nuevo Pedido: Pedido{fecha='22-10-22', total=30000, cliente=1@1234@Cedula@Juan@Tubulaba@30000, producto=[Producto{codigo='0001', nombre='Pan', precio='1000'}]},Se ha hecho un nuevo pedido por Juan Tubulaba,2022-10-20
+Oct 20, 2022 5:46:35 PM persistencia.ArchivoUtil guardarRegistroLog
+INFO: Nuevo Pedido: Pedido{fecha='20-10-22', total=20000, cliente=1@1234@Cedula@Juan@Tubulaba@30000, producto=[Producto{codigo='0001', nombre='Pan', precio='1000'}]},Se ha hecho un nuevo pedido por Juan Tubulaba,2022-10-20
+Oct 20, 2022 5:46:35 PM persistencia.ArchivoUtil guardarRegistroLog
+INFO: Nuevo Pedido: Pedido{fecha='19-10-22', total=42344, cliente=2@123456@Cedula@Nicolas@Jurado@1234453, producto=[Producto{codigo='0001', nombre='Pan', precio='1000'}]},Se ha hecho un nuevo pedido por Nicolas Jurado,2022-10-20
+Oct 20, 2022 5:46:35 PM persistencia.ArchivoUtil guardarRegistroLog
+INFO: Nuevo Pedido: Pedido{fecha='22-10-22', total=30000, cliente=1@1234@Cedula@Juan@Tubulaba@30000, producto=[Producto{codigo='0001', nombre='Pan', precio='1000'}]},Se ha hecho un nuevo pedido por Juan Tubulaba,2022-10-20
